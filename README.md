@@ -1,3 +1,5 @@
+<img src="https://github.com/NoorNick/House-Price-Prediction/blob/main/housepricepredplot.png?raw=true" width="400"/>
+
 # 🏠 House Price Prediction
 
 This project uses machine learning techniques to predict house prices based on various features such as number of rooms, lot size, and location. The model is trained and evaluated using a dataset from Kaggle. This project was made in fulfillment for the Skills Union Data Science and AI Certification.
