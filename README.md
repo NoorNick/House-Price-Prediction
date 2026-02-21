@@ -4,7 +4,7 @@
 
 This project uses machine learning techniques to predict house prices based on various features such as number of rooms, lot size, and location. The model is trained and evaluated using a dataset from Kaggle. This project was made in fulfillment for the Skills Union Data Science and AI Certification.
 
-## 📊 Dataset
+## Dataset
 
 The dataset is available on Kaggle:  
 👉 [House Price Prediction Dataset](https://www.kaggle.com/datasets/zafarali27/house-price-prediction-dataset)
@@ -14,7 +14,7 @@ To use the dataset:
 2. Navigate to the dataset page linked above.
 3. Download the CSV file(s) and place them into a folder named `data/` inside the project directory.
    
-## 📌 Features
+## Features
 
 - Data exploration and preprocessing
 - Feature selection and engineering
@@ -22,12 +22,12 @@ To use the dataset:
 - Predictions on unseen data
 - Visualization of results
 
-## 📁 Files
+## Files
 
 - `housepriceprediction.ipynb`: Main Jupyter Notebook containing all code and results.
 - `requirements.txt`: Python dependencies needed to run the notebook.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
